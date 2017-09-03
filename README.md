@@ -1,0 +1,3 @@
+# DoubanCrawler
+一个豆瓣爬虫，可以爬取豆瓣所有数据到本地
+也是一个Python爬虫框架scrapy的学习项目
